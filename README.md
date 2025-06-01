@@ -3,6 +3,8 @@
 
 <b>FundedEA Quantum Premium V2</b>  is an automated MetaTrader 4 expert advisor designed for safe and efficient trading of Gold (XAUUSD) and other assets. It’s optimized for prop firm challenges with strict risk management and a single-trade strategy.
 
+![image](https://github.com/user-attachments/assets/9deccd89-753b-43a1-aeea-716c90e0932d)
+
 <br>
 
 ## 5 Key Features:
