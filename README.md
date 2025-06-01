@@ -1,7 +1,7 @@
-# 🚀📈 FT Gold Robot
+# 🚀📈 FundedEA Quantum Premium V2
 
 
-<b>FT Gold Robot</b> is a smart, hands-free trading tool built specifically for trading Gold (XAU/USD) on the MT4 platform. Designed with advanced trading algorithms, it automatically scans the market, detects high-probability trade setups, and executes trades—so you don’t have to.
+<b>FundedEA Quantum Premium V2</b>  is an automated MetaTrader 4 expert advisor designed for safe and efficient trading of Gold (XAUUSD) and other assets. It’s optimized for prop firm challenges with strict risk management and a single-trade strategy.
 
 <br>
 
@@ -20,11 +20,11 @@
 
 <br>
 
-## How to Install and Use the FT Gold Robot
+## How to Install and Use the FundedEA Quantum Premium V2
 
 1. Download the Indicator
    
-<a href="https://forextoolstore.com/product/ft-gold-robot-ea/">Download FT Gold Robot</a>
+<a href="https://forextoolstore.com/product/fundedea-quantum-premium-v2/">Download FundedEA Quantum Premium V2</a>
 
 3. Run the File
 Open the downloaded file to initiate the installation process.
